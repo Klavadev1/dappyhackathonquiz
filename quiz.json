@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of popular video game franchises.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Which franchise features Master Chief?",
+      "answers": ["Halo", "Doom", "Quake"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Which game is set in Hyrule?",
+      "answers": ["Zelda", "Mario", "Sonic"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which franchise includes Ezio?",
+      "answers": ["Creed", "Hitman", "Thief"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which franchise features Pokémon?",
+      "answers": ["Pokemon", "Digimon", "YuGiOh"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game stars Lara Croft?",
+      "answers": ["Tomb", "Uncharted", "Assassin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game features the Brotherhood?",
+      "answers": ["Creed", "Fallout", "Skyrim"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which franchise is set in Tamriel?",
+      "answers": ["Elder", "Dark", "Diablo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has a Spartan protagonist?",
+      "answers": ["Halo", "Doom", "Gears"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which franchise features Ryu?",
+      "answers": ["Street", "Tekken", "Mortal"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which game has a Plumber hero?",
+      "answers": ["Mario", "Sonic", "Zelda"],
       "correctAnswerIndex": 0
     }
   ]
